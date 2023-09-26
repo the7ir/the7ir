@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @the7ir
-- 👀 I’m interested in something, hacking, Cyber Secuirty
+- 👀 I’m interested in something, hacking, Cyber Security
 - 🌱 I’m currently learning path for cyber security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
