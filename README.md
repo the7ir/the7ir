@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @the7ir
-- 👀 I’m interested in something, hacking, Cyber Security
-- 🌱 I’m currently learning path for cyber security
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi 👋, This is Nguyen Thanh Thang.
+🌱 I’m currently learning Information Security at Post and Telecommunication Institute of Technology.
+📫 How to reach me: 📧[thanhthang32k@gmail.com]
+😄 Pronouns: zir, zirami, hazir66. 💝
+⚡ Fun fact: Windows, problems? REBOOT! Linux, problems? BE ROOT!
 
 <!---
 the7ir/the7ir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
